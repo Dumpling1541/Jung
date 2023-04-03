@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+ 		<h1>집에가고싶어</h1>
+ 	<form>
+		ID<input type ="text"/>
+		PS<input type ="password"/>
+	</form>
 </body>
 </html>
